@@ -1,4 +1,4 @@
-# 👩‍💻 Mickaela Rodrigues
+# Mickaela Rodrigues
 
 ### Future Systems Analyst | Tech & Business Enthusiast | SPTech Student
 
@@ -6,17 +6,17 @@ Olá! Sou a Mickaela, tenho 18 anos e sou apaixonada por entender como a tecnolo
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- 📊 **Foco Atual:** Análise de sistemas, arquitetura de dados e lógica de programação.
-- 🎓 **Educação:** Graduanda em Sistemas de Informação (**SPTech**).
-- 💡 **Interesses:** Transformar dados em estratégia de negócio e valor para o usuário final.
-- 🎯 **Objetivo:** Tornar-me uma profissional versátil que domina o desenvolvimento e a gestão da informação.
-- ⚡ **Curiosidade:** Adoro o desafio de transformar problemas complexos em fluxos simples e funcionais.
+-  **Foco Atual:** Análise de sistemas, arquitetura de dados e lógica de programação.
+-  **Educação:** Graduanda em Sistemas de Informação (**SPTech**).
+-  **Interesses:** Transformar dados em estratégia de negócio e valor para o usuário final.
+-  **Objetivo:** Tornar-me uma profissional que domina o desenvolvimento e a gestão da informação.
+-  **Curiosidade:** Adoro o desafio de transformar problemas complexos em fluxos simples e funcionais.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend & Logic
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
