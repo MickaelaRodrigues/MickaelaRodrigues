@@ -1,8 +1,8 @@
 # Mickaela Rodrigues
 
-### Future Systems Analyst | Tech & Business Enthusiast | SPTech Student
+### Tecnologia e Negócios| Estudante SPTech
 
-Olá! Sou a Mickaela, tenho 18 anos e sou apaixonada por entender como a tecnologia pode otimizar processos e transformar a realidade das empresas. Atualmente, curso **Sistemas de Informação na SPTech**, onde desenvolvo uma visão analítica e técnica para criar soluções inteligentes e eficientes.
+Olá! Sou a Mickaela, tenho 19 anos e sou apaixonada por entender como a tecnologia pode otimizar processos e transformar a realidade das empresas. Atualmente, curso **Sistemas de Informação na SPTech**, onde desenvolvo uma visão analítica e técnica para criar soluções inteligentes e eficientes.
 
 ---
 
